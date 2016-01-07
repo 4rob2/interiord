@@ -4,18 +4,24 @@ header {
   font-size: 56px;
 }
 
-.before {
-  width: 300px;
+.before {background-color: green;
+  width: 33%;
   float: left;
 }
 
+.during {
+  width: 33%;
+  float: left;
+  background-color: green;}
 
 .after {
-  width: 300px;
-  float: right;
+  width: 33%;
+  float: left;
+  background-color: green;
+
 }
 
-footer {
+footer {background-color: green;
   border: 2px solid lightblue;
   text-align: center;
   margin-top: 600px;
